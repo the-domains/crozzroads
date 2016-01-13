@@ -1,6 +1,6 @@
 name: CrozzRoads
 favicon: null
-layout_spectrum: 0.9299832640681416
+layout_spectrum: 1
 typography_spectrum: 0.6792690048459917
 title: CrozzRoads Share
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.3819274341221899
+    - '#111111'
+    - '#ffffff'
+    - '#a5a5a5'
+    - '#5c5c5c'
+    - '#ec090c'
+  brandStrength: 0.5
   lightness: 0.8716030102223158
   saturation: 0.8037631867919117
   rhythmicContrast: 0.28945642057806253
